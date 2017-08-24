@@ -1,6 +1,6 @@
 
 i18n.map('en', {
-	label_type: "Tipy",
+	label_type: "Type",
 	label_usercats: "Tipology",
 
 	cats: {
