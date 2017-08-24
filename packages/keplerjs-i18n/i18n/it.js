@@ -1,3 +1,4 @@
+
 i18n.map('it', {
 
 	title_root: "Mappa",
@@ -5,6 +6,7 @@ i18n.map('it', {
 	title_profile: "Il Tuo Profilo",
 	title_settings: "Impostazioni",
 	title_settingsBlocked: "Utenti bloccati",
+	
 	title_histplaces: "Luoghi recenti",
 	title_friends: "I Tuoi Amici",
 	title_places: "Luoghi",
@@ -30,7 +32,7 @@ i18n.map('it', {
 	btn_avatar: "Foto profilo",
 	btn_verify: "Verifica",
 	btn_verified: "Verificata",
-	btn_notverified: "Verifica",
+	btn_notverified: "Non verificata",
 	btn_logout: "Esci",
 	btn_home: "Homepage",
 	btn_enter: "Entra",
@@ -39,14 +41,15 @@ i18n.map('it', {
 	btn_signinfb: "Registrati con Facebook",
 	btn_signingp: "Registrati con Google",
 	btn_forgotpw: "Password persa?",
-	btn_friendadd: "Aggiungi",
-	btn_frienddel: "Rimuovi",
+	btn_friendadd: "Aggiungi amicizia",
+	btn_frienddel: "Rimuovi amicizia",
 	btn_friendpending: "In Attesa...",
 	btn_friendconfirm: "Conferma amico",
 	btn_friendreceive: "Richiesta di amicizia",
 	btn_userBlock: "Blocca utente!",
 	btn_usersblocked: "Utenti bloccati",
-	btn_userUnblock: "Sblocca",		
+	btn_userUnblock: "Sblocca",	
+	btn_things: "Cose",	
 
 	label_loading: "Loading...",
 	label_noname: "senza nome",
@@ -92,7 +95,6 @@ i18n.map('it', {
 	gender_none: "Nessuno",
 
 	azimuth: "Nord,Nord-NordEst,Nord-Est,Est-NordEst,Est,Est-SudEst,Sud-Est,Sud-SudEst,Sud,Sud-SudOvest,Sud-Ovest,Ovest-SudOvest,Ovest,Ovest-NordOvest,Nord-Ovest,Nord-NordOvest,Nord",
-
 	months_name:"Gennaio,Febbraio,Marzo,Aprile,Maggio,Giugno,Luglio,Agosto,Settembre,Ottobre,Novembre,Dicembre",
 	days_name: "Domenica,Lunedi,Martedi,Mercoledi,Giovedi,Venerdi,Sabato",	
 	days_near: "Ieri,Oggi,Domani",

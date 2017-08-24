@@ -1,4 +1,4 @@
-i18n.map('en', {
+i18n.map ('en', {
 
 	title_root: "Map",
 	title_home: "Welcome",
@@ -61,24 +61,26 @@ i18n.map('en', {
 	btn_avatar: "Photo profile",
 	btn_verify: "Verify",
 	btn_verified: "Verified",
-	btn_notverified: "Verify",
+	btn_notverified: "Not Verified",
 	btn_logout: "Logout",
 	btn_home: "Homepage",
 	btn_enter: "Log in",
 	btn_signup: "Register",
 	btn_signin: "Login",
-	btn_signinfb: "Register with Facebook",
-	btn_signingp: "Register with Google",
+	btn_signinfb: "Login with Facebook",
+	btn_signingp: "Login with Google",
 	btn_forgotpw: "Lost Password?",
-	btn_friendadd: "Add",
-	btn_frienddel: "Unfriend",
+	btn_friendadd: "Add friendship",
+	btn_frienddel: "Remove friendship",
 	btn_friendpending: "Waiting ...",
 	btn_friendconfirm: "Confirm Friend!",
 	btn_friendreceive: "Request for Friendship",
 	btn_userBlock: "Block user!",
 	btn_usersblocked: "Blocked Users",
 	btn_userUnblock: "Unlock",
+	btn_things: "Things", 
 
+	map_attrib: "<a href=\"http://osm.org/\"> osm.org </a>",
 	map_gps_title: "Your location",
 	map_gps_error: "gps disabled",
 	map_layer_road: "Roads",
@@ -90,8 +92,7 @@ i18n.map('en', {
 	gender_female: "Female",
 	gender_none: "None",
 
-	azimuth: "North,North-NorthEast,North-East,East-NorthEast,East,East-SouthEast,South-East,South-SouthEast,South,South-SouthWest,South-West,West-SouthWest,West,West-NorthWest,North-West,North-NorthWest,North",
-
+	azimuth: "North, North-Northeast, Northeast, East-Northeast, East, East-South-East, South-East, South-Southeast, South, South-Southwest, Southwest, West-Southwest, West, West-Northwest, North-West, North-Northwest, North ",
 	months_name: "January,February,March,April,May,June,July,August,September,October,November,December",
 	days_name: "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
 	days_near: "Yesterday,Today,Tomorrow",
